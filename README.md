@@ -14,52 +14,118 @@ mission: build systems that talk to each other
 
 ---
 
-## 🧠 About
+## 🧭 Learning Roadmap
 
-Estudante de Análise e Desenvolvimento de Sistemas. Apaixonada por entender como sistemas conversam entre si através de APIs, webhooks e integrações.
+```
+[████████░░░░░░░░░░░░░░] 35% da jornada
 
----
-
-## ⚙️ Tech Stack
-
-**Linguagens**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
-**Tools**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## 🔗 Areas of Interest
-
-```bash
-→ REST APIs
-→ Webhooks & Event-driven
-→ System integrations
-→ Automation flows
-→ Backend architecture
-→ AI in applications
+📍 Você está aqui → JavaScript Intermediário + Node.js
 ```
 
 ---
 
-## 🛰 Currently Learning
+## 🗺️ Trilha de Aprendizado
+
+### ✅ **1️⃣ JavaScript/TypeScript Backend**
+```
+Próximo: async/await, promises, event loop
+├─ TypeScript: tipos, interfaces, generics
+└─ Padrões Node: camadas, services, repositories
+```
+
+### ⏳ **2️⃣ HTTP (o coração de API)**
+```
+Request/response, headers, status codes
+├─ Cookies vs tokens, CORS, cache
+└─ REST bem feito: paginação, filtros, versionamento
+```
+
+### ⏳ **3️⃣ APIs na Prática (Node.js)**
+```
+Express/Fastify/Nest: rotas, middlewares, validação
+├─ CRUD + regras de negócio + erro consistente
+├─ OpenAPI/Swagger
+└─ Consumo de APIs externas (timeouts, retries)
+```
+
+### ⏳ **4️⃣ Banco de Dados & Modelagem**
+```
+SQL: SELECT, JOIN, index, transação
+├─ Modelagem: relacionamentos, normalização
+├─ ORMs: Prisma/TypeORM
+└─ Migrações + seed + versionamento
+```
+
+### ⏳ **5️⃣ Segurança**
+```
+JWT, refresh token, sessions
+├─ OAuth2 + roles/permissions
+├─ Secrets, env vars, bcrypt/argon2
+└─ Rate limiting + OWASP básico
+```
+
+### ⏳ **6️⃣ Integrações (seu diferencial)**
+```
+Webhooks: HMAC, replay protection
+├─ Idempotência
+├─ Filas: BullMQ/RabbitMQ/SQS
+└─ Event-driven + Sagas
+```
+
+### ⏳ **7️⃣ Qualidade & Testes**
+```
+Jest/Vitest: unitários + integração
+├─ Mocks vs testes reais
+├─ Testes de contrato
+└─ Observabilidade de erros
+```
+
+### ⏳ **8️⃣ Observabilidade**
+```
+Logs estruturados (correlationId)
+├─ Métricas (erro, latência, throughput)
+├─ Tracing distribuído
+└─ Health checks + alertas + SLO
+```
+
+### ⏳ **9️⃣ DevOps**
+```
+Docker: build, volumes, networks
+├─ CI/CD: testes, lint, build, deploy
+├─ Deploy: Render/Fly/AWS
+└─ Nginx/reverse proxy
+```
+
+### ⏳ **🔟 IA Aplicada**
+```
+LLM via API: prompts, parâmetros, custos
+├─ Guardrails: validação, fallback
+├─ Avaliação + monitoramento
+└─ Quando não usar IA
+```
+
+---
+
+## ⚙️ Tech Stack (Atual)
+
+**Aprendendo agora**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+**No radar**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## 📚 Estudando Agora
 
 ```diff
-+ Advanced JavaScript
-+ TypeScript for backend
-+ HTTP internals
-+ API architecture
-+ Webhooks & integrations
-+ Docker & DevOps
-+ AI integration
++ JavaScript moderno (async/await, promises)
++ Node.js fundamentals
++ Event loop (bem entendido)
+→ Próximo: TypeScript + padrões de projeto
 ```
 
 ---
@@ -69,9 +135,9 @@ Estudante de Análise e Desenvolvimento de Sistemas. Apaixonada por entender com
 ```bash
 📧 Email: valeskatkg@gmail.com
 💼 LinkedIn: linkedin.com/in/valescamattos
-📍 Brazil
+📍 Rio Grande do Sul, Brazil
 ```
 
 ```bash
-> end of transmission
+> building backend systems, one API at a time...
 ```
